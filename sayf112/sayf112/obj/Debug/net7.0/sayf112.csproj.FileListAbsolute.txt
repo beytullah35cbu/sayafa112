@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.AssemblyInfo.cs
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/sayf112/sayf112/bin/Debug/net7.0/sayf112
+/Users/beytullah/Projects/sayf112/sayf112/bin/Debug/net7.0/sayf112.deps.json
+/Users/beytullah/Projects/sayf112/sayf112/bin/Debug/net7.0/sayf112.runtimeconfig.json
+/Users/beytullah/Projects/sayf112/sayf112/bin/Debug/net7.0/sayf112.dll
+/Users/beytullah/Projects/sayf112/sayf112/bin/Debug/net7.0/sayf112.pdb
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.dll
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/refint/sayf112.dll
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.pdb
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/sayf112.genruntimeconfig.cache
+/Users/beytullah/Projects/sayf112/sayf112/obj/Debug/net7.0/ref/sayf112.dll
